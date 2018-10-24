@@ -1,8 +1,7 @@
 body {
 	font-family: arial;
-	background: purple blue;
+	background-image: linear-gradient(to right, #fff, #ccc, #aaa, #888, #555, #333, #000);
 }
 
 h1 {
-	background: gradient #fff #ccc #aaa #888 #555 #333 #000
 }
