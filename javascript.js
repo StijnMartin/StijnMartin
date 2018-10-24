@@ -1,0 +1,2 @@
+var button = getElementById("button")
+
