@@ -1,10 +1,10 @@
 body {
 	font-family: arial;
-	background-image: linear-gradient(to right, #fff, #ccc, #aaa, #888, #555, #333, #000);
+	background-image: linear-gradient(to right,purple,red,green,blue,orange,black,yellow,white,lightblue,darkgreen,hotpink);
 }
 
 h1 {
 	margin-top: 0;
 	margin-left: 0;
-	background-image: linear-gradient(to left, #fff, #ccc, #aaa, #888, #555, #333, #000);
+	background-image: linear-gradient(to left, #fff, #eee, #ddd #ccc, #bbb #aaa, #999 #888, #777, #666, #555, #444 #333, #222, #111, #000);
 }
