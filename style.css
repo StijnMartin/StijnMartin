@@ -1,5 +1,8 @@
 body {
 	font-family: arial;
 	background: purple blue;
-	
+}
+
+h1 {
+	background: gradient #fff #ccc #aaa #888 #555 #333 #000
 }
